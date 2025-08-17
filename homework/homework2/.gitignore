@@ -1,0 +1,25 @@
+# Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境文件夹（根据你虚拟环境名字改）
+env/
+venv/
+fe-course/
+
+# Jupyter Notebook检查点
+.ipynb_checkpoints/
+
+# .env文件（存放环境变量的敏感信息）
+.env
+
+# 数据文件夹
+data/
+
+# VSCode配置文件
+.vscode/
+
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db
